@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
 <h3 align="center">A Computer Science Student from Spain</h3>
 
-- 🔭 I’m currently studying on **Cumputer Science at University of Vigo**
+- 🔭 I’m currently studying on **Computer Science at University of Vigo**
 
 - 🌱 I’m currently learning **React, Vue, Javascript and back-end tecnologies**
 
