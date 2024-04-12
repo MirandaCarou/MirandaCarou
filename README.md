@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
-<h3 align="center">A Computer Science Student from Spain</h3>
+<h3 align="center">A FullStack Software Engineer from Spain</h3>
 
-- 🔭 I’m currently studying on **Computer Science at University of Vigo**
+- 🔭 I recently graduated **Computer Science at University of Vigo**
 
 - 🌱 I’m currently learning **React, Vue, Javascript and back-end tecnologies**
 
-- 📫 How to reach me **miranda.carou22boiro@gmail.com**
+- 📫 How to reach me **mclainho19@esei.uvigo.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
