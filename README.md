@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
-<h3 align="center">A FullStack Software Engineer from Spain</h3>
+<h3 align="center">A Quantum Computing Researcher from Spain</h3>
 
-- 🔭 I recently graduated **Computer Science at University of Vigo**
+- 🔭 I recently studyng a Master Degree in **Science and Quantum Tecnologies**
 
-- 🌱 I’m currently learning **React, Vue, Javascript and back-end tecnologies**
+- 🌱 I’m currently learning **QML for High Energy Pgysics, Pennylane framework, Quuantum Simulation, Qiskit ...**
 
 - 📫 How to reach me **mclainho19@esei.uvigo.es**
 
