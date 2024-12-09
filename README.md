@@ -3,7 +3,7 @@
 
 - 🔭 I´m studyng a Master Degree in **Science and Quantum Tecnologies**
 
-- 🌱 I’m currently learning **QML for High Energy Pgysics, Pennylane framework, Quuantum Simulation, Qiskit ...**
+- 🌱 I’m currently learning **Qutrits, QML for High Energy Pgysics, Pennylane framework, Quuantum Simulation, Qiskit ...**
 
 - 📫 How to reach me **mclainho19@esei.uvigo.es**
 
