@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
 <h3 align="center">A Quantum Computing Researcher from Spain</h3>
 
-- 🔭 I´m studyng a Master Degree in **Science and Quantum Tecnologies**
+- 🔭 I´m doing a PhD in Physics**
 
 - 🌱 I’m currently learning **Qutrits, QML for High Energy Pgysics, Pennylane framework, Quuantum Simulation, Qiskit ...**
 
-- 📫 How to reach me **mclainho19@esei.uvigo.es**
+- 📫 How to reach me **micalai@alumni.uv.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
