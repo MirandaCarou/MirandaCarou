@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miranda Carou</h1>
 <h3 align="center">A Quantum Computing Researcher from Spain</h3>
 
-- 🔭 I´m doing a PhD in Physics**
+- 🔭 I´m a **PhD a candidate in Physics**
 
 - 🌱 I’m currently learning **Qutrits, QML for High Energy Pgysics, Pennylane framework, Quuantum Simulation, Qiskit ...**
 
